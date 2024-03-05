@@ -1,3 +1,11 @@
+---
+layout: project
+title: FDIA_with_TCN/
+project: FDIA_with_TCN
+repo: datascience-labs/FDIA_with_TCN
+permalink: /:path/:basename:output_ext
+---
+
 # Temporal Convolutional Autoencoder를 사용한 스마트 그리드에서의 FDIA 탐지 기법
 False Data Injection Attack Detection in Smart Grid using Temporal Convolutional Autoencoder
 
